@@ -19,6 +19,7 @@ So, in this types of conditions, the best way is to look CCTV footage and proofs
 
 # Pre Trained Models
 
-1. Face Encoding  
-2. Shape Predictor
+1. Face Encoding  - dlib_face_recognition_resnet_model_v1.dat
+2. Shape Predictor  - shape_predictor_68_face_landmarks.dat
+
 
